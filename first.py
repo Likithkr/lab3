@@ -1,1 +1,1 @@
-print("VVCE moye moye")
+print("VVCE")
